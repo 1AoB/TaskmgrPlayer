@@ -14,6 +14,13 @@ Anyway, getting your code moving is learning the right way to open ffmpeg, not o
 The download address of opencv and ffmpeg is attached:
 1. [opencv](https://opencv.org/releases/)
 2. [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
+
+
+![image](https://github.com/user-attachments/assets/7130b733-2fa3-4710-81d5-cd5661b2a231)
+
+![image](https://github.com/user-attachments/assets/1cb1ac3f-687d-47c1-87bc-4dabc45a2a24)
+
+
 ------------
 
 # TaskmgrPlayer
