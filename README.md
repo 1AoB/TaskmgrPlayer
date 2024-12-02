@@ -20,6 +20,7 @@ The download address of opencv and ffmpeg is attached:
 
 ![image](https://github.com/user-attachments/assets/1cb1ac3f-687d-47c1-87bc-4dabc45a2a24)
 
+![image](https://github.com/user-attachments/assets/51ea5abd-da31-4bee-a37b-899b9830f5fb)
 
 ------------
 
