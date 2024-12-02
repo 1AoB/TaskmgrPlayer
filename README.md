@@ -1,3 +1,19 @@
+you need to configure opencv and ffmpeg running environments on your computer, and then run exe files as an administrator before the programs can run in task manager.
+
+After trying the program can be in the CPU and Ethernet windows to achieve animation playback,
+
+i always thought ffmpeg was a very tall thing. i learned it from ffmpeg's source code at the beginning, but the more i learned, the more i felt ffpeg was boring. at first, learning source code was not a very good way to learn.
+
+The correct way to learn is to apply ffmpeg directly to the program and run ffmpeg as a command.
+
+In fact, do not need to understand too much development source code, do research and development is needed.
+
+Anyway, getting your code moving is learning the right way to open ffmpeg, not obsessing about the details of the source code, and you don't do library development, right?
+
+
+
+------------
+
 # TaskmgrPlayer
  >让你的任务管理器动起来
 
