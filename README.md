@@ -11,7 +11,9 @@ In fact, do not need to understand too much development source code, do research
 Anyway, getting your code moving is learning the right way to open ffmpeg, not obsessing about the details of the source code, and you don't do library development, right?
 
 
-
+The download address of opencv and ffmpeg is attached:
+1. [opencv](https://opencv.org/releases/)
+2. [ffmpeg](https://www.gyan.dev/ffmpeg/builds/)
 ------------
 
 # TaskmgrPlayer
